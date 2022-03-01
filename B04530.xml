@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Natures wonder? Or, [An ac]count how the wife of one John Waterman an ostler ... was delivered of a strage monster upon the 26th of October 1664 ... It had two heads, foure armes, and two legs ... She had another child born before it ...which is yet living, and is a very comely child in all proportions. This is attested for truth, by several persons which were eye witnesses. The tune is, London prentice: Or, Jovial batchelor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04530</idno>
+            <idno type="STC">Wing N245A</idno>
+            <idno type="STC">ESTC R180840</idno>
+            <idno type="EEBO-CITATION">47012540</idno>
+            <idno type="OCLC">ocm 47012540</idno>
+            <idno type="VID">174510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174510)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Natures wonder? Or, [An ac]count how the wife of one John Waterman an ostler ... was delivered of a strage monster upon the 26th of October 1664 ... It had two heads, foure armes, and two legs ... She had another child born before it ...which is yet living, and is a very comely child in all proportions. This is attested for truth, by several persons which were eye witnesses. The tune is, London prentice: Or, Jovial batchelor.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Andrews at White-Lyon in Pye-corner.,</publisher>
+                  <pubPlace>[London]</pubPlace>
+                  <date>[1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half-sheet contains: The second part, to the same tune.</note>
+                  <note>Right half-sheet contains: A true relation of this strange and wonderful monster.</note>
+                  <note>"With allowance, Novemb. 12th. 1664."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Abnormalities, Human --  England --  Early works to 1800.</term>
+               <term>Conjoined twins --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174510:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>Natures Wonder?</head>
+            <argument>
+               <p>OR, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ount how the Wife of one <hi>John Wate<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>man</hi> an Oſtler in the Pariſh of <hi>Fiſherton-Anger,</hi> near <hi>Sali<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bury,</hi> was Delivered of ſtrange Monſter upon the 26<hi rend="sup">th.</hi> of <hi>October</hi> 1664. which lived untill the 27<hi rend="sup">th.</hi> of the ſame Moneth. It had two Heads, foure Armes, and two Legs. The Heads ſtanding contrary each to the other; and the Loines, Hipps and Leggs Iſſueing out of the middle, betwixt both. They were both perfect to the Navell, and there joyned in one, being but one Sex, which was the Female. She had another Child born before it (of the Female Sex) which is yet living, and is a very comely Child in all proportions. This is Atteſted for truth, by ſeveral Perſons which were eye wittneſſes.</p>
+            </argument>
+            <opener>The Tune is, <hi>London Prentice:</hi> Or, <hi>Jovial Batchelor.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>COme take a view good People all,</l>
+                  <l>obſerve it well with héed</l>
+                  <l>A ſtranger Wonder Nature did</l>
+                  <l>ne're frame of Humane Séed;</l>
+                  <l>A Monſter of miſhapen Forme</l>
+                  <l>I here to you preſent,</l>
+                  <l>By this Example you may learn</l>
+                  <l>to feare Gods Puniſhment.</l>
+               </lg>
+               <lg>
+                  <l>Strange Wonders hath béen lately ſhown</l>
+                  <l>within our <hi>Engliſh</hi> Nation;</l>
+                  <l>But none ſo ſtrange as this was known,</l>
+                  <l>you'l find by this Relation;</l>
+                  <l>Then give attention to the ſame,</l>
+                  <l>I'le ſhow you how it was,</l>
+                  <l>To tell the truth it is no ſhame,</l>
+                  <l>for thus it came to paſſe.</l>
+               </lg>
+               <lg>
+                  <l>At <hi>Fiſherton</hi> near <hi>Salisbury,</hi>
+                  </l>
+                  <l>a Husbandman doth dwell</l>
+                  <l>
+                     <hi>John Waterman</hi> ſo call'd is he,</l>
+                  <l>his Neighbours all can tell;</l>
+                  <l>It was his Wife which did bring forth</l>
+                  <l>this ſtrange Miſhapen Thing:</l>
+                  <l>From Eaſt to Weſt, from North to South</l>
+                  <l>the News thereof will ring.</l>
+               </lg>
+               <lg>
+                  <l>It was but in <hi>October</hi> laſt,</l>
+                  <l>the Six and twenty day,</l>
+                  <l>No longer ſince t'was done and paſt:</l>
+                  <l>I can for certaine ſay</l>
+                  <l>This Woman was Delivered well,</l>
+                  <l>and with her Life ſhe ſcap't</l>
+                  <l>Of this ſame Monſter I'le tell</l>
+                  <l>how ſtrangely t'was Miſhap't.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond Pa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>TWo Heads it had, grew oppoſite,</l>
+                  <l>the Picture plain appeares</l>
+                  <l>With all proportions fair in ſight,</l>
+                  <l>Mouthes, Noſes, Eyes and Eares,</l>
+                  <l>Two Bodies ſhaped perfectly,</l>
+                  <l>down to the Navel ſéen,</l>
+                  <l>And there they joyned wondrouſly,</l>
+                  <l>the Hipps and Leggs betwéen.</l>
+               </lg>
+               <lg>
+                  <l>The bodies being joyn'd in one,</l>
+                  <l>were of the female Sex,</l>
+                  <l>The like thereof was never known,</l>
+                  <l>they ſtrangely did Connex;</l>
+                  <l>Four Armes were on the body plac'd,</l>
+                  <l>it had of Leggs but two;</l>
+                  <l>Thus Nature had her work defac'd,</l>
+                  <l>which ſhe doth ſeldom do.</l>
+               </lg>
+               <lg>
+                  <l>The Women they were all afraid</l>
+                  <l>to ſee this fearfull ſight,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eke the Midwife much diſmay'd</l>
+                  <l>when as it came to light,</l>
+                  <l>But moſt of all the Mother weak</l>
+                  <l>her grievious Paines was much,</l>
+                  <l>She had not power long time te ſpeak</l>
+                  <l>her ſorrow it was ſuch.</l>
+               </lg>
+               <lg>
+                  <l>Two dayes and nights this Monſter liv'd</l>
+                  <l>in woefull miſery,</l>
+                  <l>The Parents they were ſadly griev'd,</l>
+                  <l>the Neighbours came to ſée;</l>
+                  <l>At length it dy'd, and was convey'd</l>
+                  <l>for Chyurgeons to Diſſect,</l>
+                  <l>And what Report thereof had ſaid,</l>
+                  <l>they found it in Effect.</l>
+               </lg>
+               <lg>
+                  <l>Another Babe this Mother ſad</l>
+                  <l>brought forth at the ſame birth,</l>
+                  <l>A comelier Ch<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld on woman had</l>
+                  <l>upon the face o'th Earth;</l>
+                  <l>Nature in that did make amends,</l>
+                  <l>proportioning each Part;</l>
+                  <l>She may bring joy unto her Friends,</l>
+                  <l>and chear her Mothers heart.</l>
+               </lg>
+               <lg>
+                  <l>Afflictions God doth ſometimes ſend</l>
+                  <l>to Parents for thier ſin,</l>
+                  <l>When they will not their lives amend,</l>
+                  <l>then doth the Lord begin</l>
+                  <l>With Iudgements for to humble them,</l>
+                  <l>and make them feel his hand;</l>
+                  <l>O turn unto the Lord in time,</l>
+                  <l>for none can Him withſtand.</l>
+               </lg>
+               <lg>
+                  <l>Our God hath many wayes to make</l>
+                  <l>vile Sinners come to ſhame:</l>
+                  <l>If once they do his Laws forſake,</l>
+                  <l>and wrong his holy Name,</l>
+                  <l>A thouſand Iudgments (worſe then this)</l>
+                  <l>he on that People brings,</l>
+                  <l>That will not mend what is amiſs,</l>
+                  <l>but act ſuch hainous Sinnes.</l>
+               </lg>
+               <lg>
+                  <l>Then Parents all Example take,</l>
+                  <l>at all times ſeek the Lord;</l>
+                  <l>Fruit of your bodies he can make</l>
+                  <l>by your own ſelves abhorr'd:</l>
+                  <l>Your Children which ſhould be a joy</l>
+                  <l>and comfort in the end,</l>
+                  <l>The Lord in fury will deſtroy,</l>
+                  <l>if you do him Offend.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="authentication_of_live_birth">
+            <head>A true Relation of this ſtrange and wonderfull MONSTER.</head>
+            <p>AT <hi>Fiſherton-Anger,</hi> near the City of <hi>Salisbury</hi> (called <hi>New Saram</hi>) near to the ſign of the Angel, Liveth one <hi>John Waterman</hi> an Oſtler, His Wife (whoſe name is <hi>Mary</hi>) was Delivered (on <hi>Wednesday</hi> the 26th. of <hi>October</hi> 1664. about two a Clock in the Morning) firſt of a very comely Daughter (which is yet living) And after of a ſtrange <hi>Monſter</hi> which was formed Triangular, two Heads (at either end one) four Eyes, two Mouthes four Armes, two Stomacks, And joyned together at the Navell; and below that two Legges and Thighs, with Natures Paſ<g ref="char:EOLhyphen"/>ſage (as other Female children have) and a Foundament: They were Baptized at 3 a Clock the ſame Morning, the firſt was named <hi>Eefelet:</hi> and the Monſters were named <hi>Martha</hi> and <hi>Mary;</hi> they had very comely faces, and both received Suſtinance, but not together: This <hi>Monſter</hi> lived two dayes and then dyed, and is Imbalmed, and to be brought to <hi>London</hi> to be ſeen. There hath been both Lords, Ladys, and much Gentry to ſee it; The Father (bring a poore man) had twenty pound given him the firſt day, by perſons of Quality.</p>
+            <p>I <hi>Joſiah Smith,</hi> Practitioner of <hi>Phiſick,</hi> ſaw them all three alive.</p>
+            <closer/>
+            <postscript>
+               <p>With Alowance,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Novemb.</hi> 12th. 1664.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>E. Andrews</hi> at White-Lyon in <hi>Pye-corner.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
